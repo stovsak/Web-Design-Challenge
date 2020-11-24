@@ -55,10 +55,10 @@ p {
 }
 
 footer{
-  position: fixed;
+  position: justified;
   bottom: 0;
   width: 100%;
-  height: 10px;
+  height: 5px;
   background-color: rgb(83, 83, 81);
 }
 
